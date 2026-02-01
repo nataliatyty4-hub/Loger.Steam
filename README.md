@@ -29,10 +29,10 @@
 
 <table>
 <tr>
-Диагностика.zip
-loger
-ПРИЛОЖЕНИЕ ТУТ
-loger.exe
+<td>Диагностика.zip</td>
+<td>loger</td>
+<td>ПРИЛОЖЕНИЕ ТУТ</td>
+<td>loger.exe</td>
 </tr>      
 </table>
 
