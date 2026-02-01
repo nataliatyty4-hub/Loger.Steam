@@ -23,7 +23,7 @@
 
 ## 🚀 Установка и запуск
 
-1. Перейдите в релизы и скачайте последнюю версию [loger](https://github.com/nataliatyty4-hub/Loger.Steam/releases/lasest)
+1. Перейдите в релизы и скачайте последнюю версию [loger](https://github.com/nataliatyty4-hub/Loger.Steam/releases/latest)
 2. Отройте так:
 
 <table>
