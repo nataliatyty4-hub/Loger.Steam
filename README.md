@@ -58,16 +58,16 @@
 
 
 1. Откройте Steam → библиотека → Postal 2  
-<td><img src="step1.png" 
+img src="step1.png" 
       
 2. Значёк настроек → «Свойства» → «Обновления»      
-<td><img src="step2.png"
+img src="step2.png"
       
 3. Найдите Номер приложения снизу      
-<td><img src="step3.png"
+img src="step3.png"
       
 4. Посмотрите **Номер приложения**        
-<td><img src="step4.png"
+img src="step4.png"
 
 
 
