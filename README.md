@@ -33,7 +33,7 @@
 <td>loger</td>
 <td>></td>
 <td>ПРИЛОЖЕНИЕ ТУТ</td>
-<td>>p</td>
+<td>></td>
 <td>loger.exe</td>
 </tr>      
 </table>
