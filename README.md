@@ -86,5 +86,8 @@
 ```powershell
 python -m pip install pyinstaller
 ```
+2. Редактируйте скрипт как вам угодно:
+
 ```python
 Полная версия скрипта находится в zip архиве полного релиза, по ссылке: https://github.com/nataliatyty4-hub/Loger.Steam/releases/tag/FullRelease
+```
